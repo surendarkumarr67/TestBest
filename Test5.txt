@@ -1,1 +1,2 @@
-yyMMdd
+yyMMdd Date format1
+ddMMyy Date format2
