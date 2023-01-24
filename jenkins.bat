@@ -1,0 +1,1 @@
+java -jar "C:\Users\Admin\Desktop\Jenkins\older\jenkins.war" --enable-future-java --httpPort=9090

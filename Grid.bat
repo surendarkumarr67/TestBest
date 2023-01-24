@@ -1,0 +1,1 @@
+java -jar "C:\Users\Admin\Desktop\Jenkins\selenium-server-4.7.2.jar" standalone
